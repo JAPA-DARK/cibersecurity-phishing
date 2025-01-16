@@ -59,5 +59,5 @@ new_file.close()
 
 ![arquivo criptografado](https://github.com/user-attachments/assets/4b3371b4-e41b-4134-9b9c-28b56758b48e)
 
-
+ 
 ![arquivo descriptografado](https://github.com/user-attachments/assets/0153e069-b68f-45a6-b860-bb8c4244d612)
