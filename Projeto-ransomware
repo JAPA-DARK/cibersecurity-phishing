@@ -1,4 +1,4 @@
-primeiro eu criei o arquivo que iria criptografar
+!primeiro eu criei o arquivo que iria criptografar
 
 import os
 import pyaes
@@ -25,7 +25,7 @@ new_file = open(f'{new_file}','wb')
 new_file.write(crypto_data)
 new_file.close()
 
-depois eu criei o arquivo que iria ser descriptografado
+!depois eu criei o arquivo que iria ser descriptografado
 
 import os
 import pyaes
@@ -50,9 +50,9 @@ new_file = open(f'{new_file}', "wb")
 new_file.write(decrypt_data)
 new_file.close()
 
-resultado final
+!resultado final
 
-processo ultilizado no linux
+##processo ultilizado no linux
 
 ![processo](https://github.com/user-attachments/assets/c4e95bf4-1977-4aa6-9bad-d54582df35cd)
 
